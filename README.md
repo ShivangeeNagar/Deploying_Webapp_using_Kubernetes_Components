@@ -3,6 +3,9 @@ Deployed my simple Web-App and MongoDB using docker images and Kubernetes compon
 Mongo-Config.yaml - for MongoDB endpoint
 </br>
 Mongo-secret.yaml - for Mongo username and password
+</br>
 mongo.yaml - contains mongo pod deployemnet (its blueprint template) and service 
+</br>
 webapp.yaml - contains webapp pod deployment (its blueprint template) and service
+</br>
 
